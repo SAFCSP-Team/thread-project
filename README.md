@@ -1,10 +1,10 @@
 # Threads
 
 ## Objectives
-The objective of this project is to apply what you have learned in thread management.
+This project aims to apply what you have learned in thread management.
 
 ## Problem
-Create a program that devide its functionalities into threads to utaliz hardware resources.
+Create a program that divides its functionalities into threads to utilize hardware resources.
 
 ## Implementation
 - Create two new threads (t0 and t1). Each will be responsible for printing its name using the `getName()` method.
