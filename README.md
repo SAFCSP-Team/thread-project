@@ -15,6 +15,6 @@ Create a program that divides its functionalities into threads to utilize hardwa
 ## Submission 
 - Fork the project and add your code to it.
 - Submit a pull request when you complete the project.
-- Create an issue of your questions if you face any trouble solving the project.
+- Create an issue with your questions if you face any trouble solving the project.
 
 
