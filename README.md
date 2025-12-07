@@ -7,9 +7,10 @@ This project aims to apply what you have learned in thread management.
 Create a program that divides its functionalities into threads to utilize hardware resources.
 
 ## Implementation
-- Create two new threads (t0 and t1). Each will be responsible for printing its name using the `getName()` method.
+- Create two new threads (t0 and t1).
 - Start the two created threads.
-- In the main method, print the current thread name using the `Thread.currentThread()` method.
+- Print (t0 and t1) thread id.
+- In the main method, print the current thread id using `pthread_self()`.
 - Let the main thread sleep for 3 seconds.
 
 ## Submission 
